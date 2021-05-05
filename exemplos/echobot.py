@@ -53,8 +53,8 @@ def main() -> None:
     """Start the bot."""
     # Create the Updater and pass it your bot's token.
     updater = Updater("TOKEN")
-
-    # Get the dispatcher to register handlers
+1749739288 : AAER1NbUZCFEFoOpbGHqgs1OcEFJ9ATwXpI
+    # Faça com que o despachante registre manipuladores
     dispatcher = updater.dispatcher
 
     # on different commands - answer in Telegram
